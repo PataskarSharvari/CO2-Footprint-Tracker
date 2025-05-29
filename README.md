@@ -1,5 +1,5 @@
 
-<a target="_blank" href="https://carbonfootprintcalculator.streamlit.app/"><img src="./media/upfront.jpg" alt="Carbon Footprint Tracker" width="600"/>
+<a target="_blank" href="https://carbonfootprintcalculator.streamlit.app/"><img src="https://github.com/PataskarSharvari/CO2-Footprint-Tracker/issues/1#issue-3101199029" alt="Carbon Footprint Tracker" width="600"/>
 </a>
 
 
