@@ -36,8 +36,8 @@ Connects users to reforestation initiatives for carbon offsetting via donations.
 Frontend: Streamlit
 
 Backend & ML:
-scikit-learn for MLPRegressor model
-pickle for model and scaler persistence
+      scikit-learn for MLPRegressor model
+      pickle for model and scaler persistence
 
 Visualization: matplotlib, PIL
 
@@ -50,19 +50,24 @@ Others: Modular architecture via functions.py
 ## 📦 Folder Structure
 .
 ├── app.py                 # Main Streamlit application
+
 ├── functions.py           # Preprocessing, chart rendering, etc.
+
 ├── models/
 │   ├── model.sav          # Trained MLPRegressor model
 │   └── scale.sav          # StandardScaler instance
+
 ├── style/
 │   ├── style.css          # Custom styles
 │   ├── scripts.js         # Interactive JS
 │   ├── main.md            # Intro content for homepage tab
 │   └── footer.html        # Footer content
+
 ├── media/
 │   ├── background_min.jpg # Background image (base64-encoded)
 │   ├── icon2.png          # Icon for styling
 │   ├── icon3.png          # Icon for styling
+
 └── README.md              # Project documentation
 
 ## 🧪 How It Works
@@ -84,7 +89,9 @@ pandas, numpy, matplotlib, scikit-learn, Pillow
 
 To Run the App :-
 git clone https://github.com/your-username/carbon-footprint-calculator.git
+
 cd carbon-footprint-calculator
+
 streamlit run app.py
 
 ## 📌 Notes
