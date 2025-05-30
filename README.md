@@ -1,5 +1,6 @@
 
-<a target="_blank" href="https://carbonfootprintcalculator.streamlit.app/"><img src="https://github.com/user-attachments/assets/d3b47e75-a198-4058-b141-0b5a84a410ab" alt="Carbon Footprint Tracker" width="1000"/>
+<a >
+<img src="https://github.com/user-attachments/assets/d3b47e75-a198-4058-b141-0b5a84a410ab" alt="Carbon Footprint Tracker" width="1000"/>
 </a>
 
 ## 🌿 AI-Powered Carbon Footprint Tracker
