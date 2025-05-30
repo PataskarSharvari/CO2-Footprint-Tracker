@@ -1,10 +1,11 @@
 
-<a target="_blank" href="https://carbonfootprintcalculator.streamlit.app/"><img src="https://github.com/PataskarSharvari/CO2-Footprint-Tracker/assets/138111556/2de5d15a-6fd0-40a5-864e-dbf59a338f83" alt="Carbon Footprint Tracker" width="600"/>
+<a target="_blank" href="https://carbonfootprintcalculator.streamlit.app/"><img src="https://github.com/user-attachments/assets/d3b47e75-a198-4058-b141-0b5a84a410ab" alt="Carbon Footprint Tracker" width="600"/>
 </a>
 
 
+
 ## 🌿 AI-Powered Carbon Footprint Calculator
-Category: [Choose relevant category: e.g., AI for Sustainability / Climate Action]
+Category: AI for Sustainability
 
 #### 🔍 Relevance :
 With global carbon emissions exceeding 40 billion tons annually, individual lifestyle choices significantly impact climate change. However, most individuals lack personalized tools to assess and reduce their carbon footprint. This project addresses the gap by leveraging AI to empower users with actionable insights into their environmental impact.
