@@ -8,7 +8,6 @@ def click_element(element):
     open_script = f"<script type = 'text/javascript'>window.parent.document.querySelector('[id^=tabs-bui][id$=-{element}]').click();</script>"
     html(open_script, width=0, height=0)
 
-
 sample = {'Body Type': 2,
  'Sex': 0,
  'How Often Shower': 1,
